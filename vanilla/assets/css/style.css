@@ -207,7 +207,7 @@
 .main-nav-bar .logo {
   display: flex;
   align-items: flex-start;
-  height: 26px;
+  height: auto;
   position: relative;
   width: 32px;
   overflow: hidden;
