@@ -137,7 +137,7 @@ html.has-scroll-smooth {
 
 body {
   -webkit-font-smoothing: antialiased;
-  font-family: 'Suisse Intl', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: var(--color-text);
   line-height: 1.5;
   font-weight: 400;
